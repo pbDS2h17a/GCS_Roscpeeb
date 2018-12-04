@@ -1,82 +1,82 @@
 -- Merging decision tree log ---
 manifest
-ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] D:\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8ccc142b9ecc8c2b5b8f40db3f99c57a\AndroidManifest.xml:2:1-11:12
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:3:5-50
-		INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
-		INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] D:\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8ccc142b9ecc8c2b5b8f40db3f99c57a\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] D:\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8ccc142b9ecc8c2b5b8f40db3f99c57a\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.pbs2h17aku.prototyp_gcs.MainActivity
-ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.example.pbs2h17aku.prototyp_gcs.TrainingActivity
-ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:19:9-54
+ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:19:9-54
 	android:name
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:19:19-51
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:19:19-51
 activity#com.example.pbs2h17aku.prototyp_gcs.StatisticActivity
-ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:20:9-55
+ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:20:9-55
 	android:name
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:20:19-52
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:20:19-52
 activity#com.example.pbs2h17aku.prototyp_gcs.HelpActivity
-ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:21:9-59
+ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:21:9-59
 	android:name
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml:21:19-47
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml:21:19-47
 uses-sdk
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] D:\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8ccc142b9ecc8c2b5b8f40db3f99c57a\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] D:\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8ccc142b9ecc8c2b5b8f40db3f99c57a\AndroidManifest.xml:5:5-7:41
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
-INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
-		INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
-		ADDED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
-		INJECTED from H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pbs2h17asc\GCS_Trainer\GCS_Roscpeeb\app\src\main\AndroidManifest.xml
