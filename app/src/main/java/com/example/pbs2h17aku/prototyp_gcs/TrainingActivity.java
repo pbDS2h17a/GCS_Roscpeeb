@@ -10,17 +10,14 @@ import android.widget.TextClock;
 import android.widget.TextView;
 
 public class TrainingActivity extends Activity {
+    private TrainingActivityViewModel mViewModel;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_training);
 
-        //Ein Patient wird erstellt
-        Patient p = new Patient();
-
-        //Der Wert wird in einem Int gespeichert um diesen zu Übernehmen
-        final int value = p.gcsValue();
+        mViewModel = new TrainingActivityViewModel(this.getApplication());
 
         //Das Editfeld wo die Zahl eingegeben wird
         final EditText number = findViewById(R.id.userInputNumber);
@@ -29,15 +26,15 @@ public class TrainingActivity extends Activity {
         final TextView copyNumber = findViewById(R.id.copyUserInput);
 
         Button losB = findViewById(R.id.losB);
-        TextView textView = findViewById(R.id.Case);
-        textView.setText(p.toString());
+        TextView patientDescription = findViewById(R.id.Case);
+        patientDescription.setText(mViewModel.getRandomPatient());
 
         //Reagiert bei click auf "LOS" und sendet das Ergebnis an das copyTextfeld
         losB.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-                if(number.getEditableText().equals(value)){
+                if(number.getEditableText().equals(mViewModel.getGcsValue())){
                     copyNumber.setText("true");
                 }
                 else{

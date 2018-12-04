@@ -30,7 +30,6 @@ public class PatientModel {
             cases.add(mPatientLists.get(i).get(indices[i]));
         }
 
-        //Konstruktor fehlt
         return new Patient(cases);
     }
 
