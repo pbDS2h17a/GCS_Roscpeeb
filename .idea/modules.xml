@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GCS_Wibbeke.iml" filepath="$PROJECT_DIR$/GCS_Wibbeke.iml" />
+      <module fileurl="file://H:\Android\gsctrainer\Prototyp_GCS.iml" filepath="H:\Android\gsctrainer\Prototyp_GCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\app.iml" filepath="H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\app\app.iml" />
+      <module fileurl="file://H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\gsctrainer.iml" filepath="H:\OPR\3.Sem\GCS-Prototyp\GCS_Wibbeke\gsctrainer.iml" />
+    </modules>
+  </component>
+</project>
